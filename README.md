@@ -2,4 +2,4 @@
 Current weather in Vancouver - bare essentials
 
 
-![Weather Example](https://raw.githubusercontent.com/lenwi/VanCurrWeather/branch/path/to/vancurrweather.JPG)
+![Weather Example](https://github.com/lenwi/VanCurrWeather/blob/master/vancurrweather.JPG)
