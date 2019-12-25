@@ -1,5 +1,5 @@
 # VanCurrWeather
-Current weather in Vancouver - bare essentials
+Current weather in Vancouver - bare essentials\
 API, weather data, and icons obtained from OpenWeatherMap - https://openweathermap.org/
 
 
